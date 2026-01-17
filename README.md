@@ -131,7 +131,7 @@ Exports the trained U-Net model for deployment using ONNX-compatible runtimes.
 
 ---
 
-##🛡️ Ethical & Legal Notes
+## 🛡️ Ethical & Legal Notes
 
 - Non-diagnostic research project
 - Dataset not redistributed
@@ -139,7 +139,7 @@ Exports the trained U-Net model for deployment using ONNX-compatible runtimes.
 - GDPR-aware data handling
 
 ---
-##⭐ Why this project matters
+## ⭐ Why this project matters
 
 This project demonstrates:
 
