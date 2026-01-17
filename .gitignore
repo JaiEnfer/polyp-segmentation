@@ -3,6 +3,8 @@ __pycache__/
 *.pyc
 .venv/
 
+# Data
+data/
 
 # Outputs (optional: keep images, ignore weights)
 outputs/**/*.pt
