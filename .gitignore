@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+
+# Outputs (optional: keep images, ignore weights)
+outputs/**/*.pt
+
+# OS
+.DS_Store
+Thumbs.db
